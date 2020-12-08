@@ -1,0 +1,94 @@
+.container {
+    margin-bottom: 70px;
+}
+
+.pink-bg {
+    background: #FEEAE9;
+    border-radius: 10px;
+}
+
+.carousel-item {
+    padding: 0px 40px;
+}
+
+.price {
+    color: #FF136F;
+}
+
+.BuyNowBTN {
+    background-image:linear-gradient(45deg,#f086ad 0%,#FF136F 100% ) ;
+    color: white;
+    padding: 10px 23px;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    margin-top: 10px;
+    font-weight: 500;
+    width: 130px; 
+}
+.BuyNowBTN:hover {
+    background-image: linear-gradient(45deg,#FF136F 0%, #db9bb3 100% );
+}
+
+.cat1, .cat2, .cat3 {
+    padding: 0px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.cat1 {
+    background: orange;
+}
+.cat2 {
+    background: #DA70D6;
+}
+.cat3 {
+    background: blue;
+}
+
+.align-items-center img {
+    width: 100px;
+    padding: 5px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: 0.3s;
+}
+.card:hover {
+    background: #FEEAE9;
+}
+h4 {
+    color: #FF136F;
+}
+
+.card-footer {
+    border-top: none;
+}
+
+#contact {
+    background: #FEEAE9;
+    padding: 80px 0px;
+    border-radius: 10px;
+}
+
+.contact-form {
+    border: 1px solid #FF136F;
+    border-radius: 7px;
+    padding: 10px 20px;
+    outline: none;
+}
+
+.ContactTitle p {
+    font-weight: 600;
+} 
+
+footer {
+    text-align: center;
+}
